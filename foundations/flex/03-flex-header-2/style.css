@@ -55,13 +55,11 @@ ul {
 
 .left{
   display: flex;
-  /* justify-content: flex-start; */
   gap:8px;
 }
 
 .right{
   display: flex;
-  /* justify-content: flex-end; */
   gap:8px;
 
 }

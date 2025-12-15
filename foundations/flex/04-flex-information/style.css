@@ -8,9 +8,30 @@ img {
 }
 
 .title {
+  padding: 10px;
+  display: flex;
   font-size: 36px;
   font-weight: 900;
+  justify-content: center;
 }
+
+.fruit-parent {
+  display: flex;
+  justify-content: space-around;
+}
+
+.fruit-info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 200px;
+}
+
+.text{
+  text-align: center;
+}
+
 
 /* do not edit this footer */
 .footer {
